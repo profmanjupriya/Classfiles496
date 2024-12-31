@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e5e8b97-5a6d-444e-bb31-9a05c2677329" name="Changes" comment="Creating Repo">
+    <list default="true" id="1e5e8b97-5a6d-444e-bb31-9a05c2677329" name="Changes" comment="Mission 1 : Crew Roster Creation V1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crew_roster.py" beforeDir="false" afterPath="$PROJECT_DIR$/crew_roster.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +100,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735618110396</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Mission 1 : Crew Roster Creation V1">
+      <option name="closed" value="true" />
+      <created>1735618853627</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1735618853627</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -142,6 +151,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creating Repo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating Repo" />
+    <MESSAGE value="Mission 1 : Crew Roster Creation V1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mission 1 : Crew Roster Creation V1" />
   </component>
 </project>
